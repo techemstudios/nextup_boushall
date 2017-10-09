@@ -3,7 +3,9 @@ HelloWorld.py (pygame style)
 Objectives:
     Dependencies (imports)
     Main Game Loop
-    Render Text
+        while loop
+        conditionals
+    Render Text/Draw text to screen
     Drawing object to surface with surface object
     The Quit Event
 """
