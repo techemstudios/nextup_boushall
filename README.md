@@ -1,22 +1,18 @@
 # NextUp Boushall
 NextUp, links to previous game design repos on readme
 
-## Mondays  
+## Mondays & Wednesdays
 
 ### Game Design  
 
-Come up with all new pygame lessons, for repeat students from last year.  
+May be worthwhile to consider Hyperpad/Design Thinking lessons.
 
-Consider Hyperpad and Codea.
-
-link to repo 1  
-link to repo 2  
-link to repo 3  
-link to repo 4  
-link to repo 5  
-link to repo 6  
-link to repo 7  
-link to repo 8    
+* [wormy](https://github.com/joetechem/wormy_rasp)  
+* [pong](https://github.com/joetechem/pong/tree/master/pong-pygame/pong)
+* [frogger](https://github.com/joetechem/frogger)
+* [pacman](https://github.com/joetechem/pacman-python-mirror) 
+* [spaceshooter](https://github.com/joetechem/pygame_tutorials) 
+* [alien invasion](https://github.com/joetechem/alien_invasion/tree/master/alien_invade)
 
 # OOP  
 
