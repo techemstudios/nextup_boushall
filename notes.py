@@ -38,3 +38,7 @@ Class notes for Lucille Brown Mondays - Intro to Computer Science
           a = int(raw_input("give me a number"))
           b = int(raw_input("give me another number"))
           print a + b
+
+# 10/16
+    # confirmed for Wednesdays (as well as Mondays) --same group
+    # started pygame development w/ snake game
