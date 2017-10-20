@@ -10,8 +10,8 @@ May be worthwhile to consider Hyperpad/Design Thinking lessons.
 * [wormy](https://github.com/joetechem/wormy_rasp)  
 * [pong](https://github.com/joetechem/pong/tree/master/pong-pygame/pong)
 * [frogger](https://github.com/joetechem/frogger)
-* [pacman](https://github.com/joetechem/pacman-python-mirror) 
-* [spaceshooter](https://github.com/joetechem/pygame_tutorials) 
+* [pacman](https://github.com/joetechem/pacman-python-mirror)
+* [spaceshooter](https://github.com/joetechem/pygame_tutorials)
 * [alien invasion](https://github.com/joetechem/alien_invasion/tree/master/alien_invade)
 
 # OOP  
@@ -30,11 +30,6 @@ Pygame is part of the Python framework including tools to create video games. Wh
   - Surface Object  
   - Quit Event  
 
-#### Dependencies  
-
-#### Initialization  
-
-#### The Main Game Loop  
 ```python    
 # importing dependencies
 import pygame, sys
@@ -63,3 +58,19 @@ while True:
             sys.exit()
     pygame.display.update()
 ```  
+
+### Pygame Walkthrough: [Wormy](https://github.com/joetechem/wormy_rasp)  
+
+Fill in the missing code. Explain dependencies, how we use pygame by `import`, discuss how computers handle and display, or represent colors, by using Red, Green, and Blue values (RGB). The retinas of our eyes have three types of photoreceptor cone cells that respond to frequencies of light, categorized into RGB. Similar to painting, we increase/decrease the amount of the three categories to have the computer represent different colors. After using one of the already defined colors as the background color (in Part Two of missing python code), challenge the class to registers their own unique color as a new variable and use as the background color.  
+
+Check out some of the color representations below:   
+
+| Red |Green|Blue | Color |
+|-------------------------|
+| 0   | 0   | 0   | black |
+| 255 | 255 | 255 | white |
+| 255 | 255 | 0   | yellow|
+| 255 | 130 | 255 | pink  |
+| 146 | 81  | 0   | brown |
+| 157 | 95  | 82  | purple|
+| 140 | 0   | 0   | maroon|  
