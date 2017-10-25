@@ -42,3 +42,7 @@ Class notes for Lucille Brown Mondays - Intro to Computer Science
 # 10/16
     # confirmed for Wednesdays (as well as Mondays) --same group
     # started pygame development w/ snake game
+
+# 10/23
+  # more things you can do with turtle
+  # setting pen/bg color, speed, challenges --> draw star, etc.
